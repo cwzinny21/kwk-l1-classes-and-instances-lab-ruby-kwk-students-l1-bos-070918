@@ -2,6 +2,4 @@
 
 class Dog 
   
-  
-  
 end 
